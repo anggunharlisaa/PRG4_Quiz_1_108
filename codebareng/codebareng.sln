@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codebareng", "codebareng\codebareng.csproj", "{6222CE7B-4A04-4C30-AD81-9DF40D04ADE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6222CE7B-4A04-4C30-AD81-9DF40D04ADE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6222CE7B-4A04-4C30-AD81-9DF40D04ADE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6222CE7B-4A04-4C30-AD81-9DF40D04ADE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6222CE7B-4A04-4C30-AD81-9DF40D04ADE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38BD5B08-7FE4-48BA-BDCD-33E0A3025BEB}
+	EndGlobalSection
+EndGlobal

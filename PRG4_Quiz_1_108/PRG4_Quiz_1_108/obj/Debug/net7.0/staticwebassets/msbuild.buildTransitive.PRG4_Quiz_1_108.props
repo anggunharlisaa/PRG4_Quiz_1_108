@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PRG4_Quiz_1_108.props" />
+</Project>
